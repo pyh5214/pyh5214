@@ -8,7 +8,7 @@
 
 🎓 
 
-📌 E-mail : kimky944@gmail.com
+📌 E-mail : pyh5214@naver.com
 
 📰 Portfolio :
 
