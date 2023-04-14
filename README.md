@@ -14,32 +14,32 @@
 
 ### career
 
+### education history
+- domain knowledge
+    - data analysis
+        - Korea Public data training 2020.09.15~2020.12.31
+    - programming language
+        - (Python) k-digital training 2022.08.15~2023.02.15
 ### Project
 - Basic Python Project
     - 1st Project : **[Repositories📘](https://github.com/minimini9951/Python-1st-Project.git)**
 
-### Toy Project
-
-### Social activity/education history
-- domain knowledge
-    - programming language
-        - (Python) k-digital
-
-### personal learning
-    
 - Machine Learning, Deep Learning based deep learning
-    - ML : **[Repositories📘](https://github.com/minimini9951/Machine-Learning-with-Python.git)**
-    - ML 1st Project : **[Repositories📘](https://github.com/minimini9951/ML-First-Project.git)**
+    - ML : **[Repositories📘](https://github.com/pyh5214/ML_Time-Series-Analysis.git)**
 
-    - Deep Learning : **[Repositories📘](https://github.com/minimini9951/Deep-Learning.git)**
-    - Deep Learning 1st Project : **[Repositories📘](https://github.com/minimini9951/Deep-learning-1st-Project.git)**
+    - Deep Learning : **[Repositories📘](https://github.com/pyh5214/DL_Project_with_YOLO.git)**
+    - Deep Learning2  **[Repositories📘](https://github.com/pyh5214/DL_FinalProject.git)**
         - CNN
         - RNN
         - YOLO
-        - Detectron2
+        - Sentence_Bert
+
+### personal learning
+    
         
  - Coding Test
     - Solve coding problem in baekjoon online judge
+    - Solve coding problem in programmers online judge
 
 <!--
 **pyh5214/pyh5214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
