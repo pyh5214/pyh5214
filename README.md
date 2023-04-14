@@ -4,13 +4,13 @@
 
 # Profile
 
-💻 
+💻 https://muhanit.kr/
 
-🎓 
+🎓 Pukyong National University
 
 📌 E-mail : pyh5214@naver.com
 
-📰 Portfolio :
+📰 Portfolio : https://calmdown.tistory.com/30
 
 ### career
 
