@@ -22,7 +22,10 @@
         - (Python) k-digital training 2022.08.15~2023.02.15
 ### Project
 - Basic Python Project
-    - 1st Project : **[Repositories📘](https://github.com/minimini9951/Python-1st-Project.git)**
+    
+- Data Analysis Project
+    - 1st Project : **[Repositories📘](https://github.com/pyh5214/GIS_Spatial-analysis-PublicProject)**
+
 
 - Machine Learning, Deep Learning based deep learning
     - ML : **[Repositories📘](https://github.com/pyh5214/ML_Time-Series-Analysis.git)**
